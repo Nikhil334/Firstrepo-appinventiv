@@ -11,4 +11,5 @@ else {
         fact *= i;
     }
     console.log(`The factorial of ${number} is ${fact}.`);
+    console.log("Nikhil");
 }
